@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/oraclebrain/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=DATA%20SCIENCE%20ENGINEER%20;BUSINESS%20INTELLIGENCE%20DEVELOPER%20;DATA%20ANALYST%20AND%20KAGGLE%20CONTRIBUTOR;6%2B%20YEAR's%20OF%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
   <img src="https://profile-counter.glitch.me/oraclebrain/count.svg"/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oraclebrain&theme=shadow_blue&layout=compact"width="48%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandraNvillarreaL&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
 
 <!---
@@ -36,10 +36,10 @@
 ----------->
 <p align="center">
   <a href="https://github.com/oraclebrain?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=oraclebrain&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Oraclebrain's github-readme-stats">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=alejandraNvillarreaL&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Oraclebrain's github-readme-stats">
   </a>
   <a href="https://github.com/oraclebrain?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=oraclebrain&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=alejandraNvillarreaL&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
   </a>
 </p>
 <br/>
